@@ -1,3 +1,4 @@
+# v3 
 class UniqueCharsInPlace(object):
 
     def has_unique_chars(self, string):
